@@ -1,6 +1,11 @@
 # Operators-C-Plus-Plus
 Estructuras de Datos_Lectura_Caso 1
 
+Integrantes:
+- Diego Granados
+- Emmanuel Matamoros
+- Gabriel Gomez
+
 Enunciado:
 "¿Cómo podría explicarle a sus compañeros con claridad como funciona compound assignment, conditional ternary operator y los bitwise operators?"
 
